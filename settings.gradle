@@ -1,0 +1,2 @@
+rootProject.name = 'pizzeria-tpv'
+include 'backend', 'integrador', 'tpv-demo'
